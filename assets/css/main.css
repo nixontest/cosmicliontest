@@ -2913,7 +2913,7 @@
 				color: inherit;
 			}
 
-/* Banner */
+/* ' */
 
 	#banner {
 		padding: 8em 0 9em 0;
@@ -2937,7 +2937,7 @@
 		}
 
 		#banner .inner {
-			border-top: 2px solid rgba(255, 255, 255, 0.2);
+			border-top: 2px solid rgba(255, 255, 255, 0.5);
 			position: relative;
 			z-index: 10005;
 			padding-top: 8em;
