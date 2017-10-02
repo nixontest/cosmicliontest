@@ -1633,7 +1633,7 @@
 		}
 
 	a {
-		color: #8e44ad;
+		color: #2c3e50;
 		text-decoration: underline;
 	}
 
@@ -1974,10 +1974,10 @@
 		-webkit-appearance: none;
 		-ms-appearance: none;
 		appearance: none;
-		background: #8e44ad;
+		background: #2c3e50;
 		border-radius: 10px;
 		border: none;
-		border: solid 2px #8dcca9;
+		border: solid 2px #fff;
 		color: #fff;
 		display: block;
 		outline: 0;
